@@ -45,5 +45,4 @@ We welcome contributions to improve "Fishbowl - Save the Fish"! To contribute:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-For any inquiries or feedback, please contact us at [email@example.com](mailto:email@example.com).
+
