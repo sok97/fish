@@ -5,9 +5,7 @@ Fishbowl - Save the Fish is a simple and addictive game where players aim to sav
 
 ## Features
 - **Intuitive Gameplay:** Easy to learn, difficult to master.
-- **Various Challenges:** Encounter different obstacles and predators as you progress.
-- **Leaderboards:** Compete with friends and players worldwide for the highest score.
-- **Power-Ups:** Unlock and use special items to aid in fish rescue missions.
+
 
 ## Screenshots
 ![image](https://github.com/sok97/fish/assets/132917503/222d2bf9-9896-4d68-bd65-a533948d839d)
@@ -22,13 +20,10 @@ To play "Fishbowl - Save the Fish," follow these steps:
 2. Navigate to the project directory.
 3. Open `index.html` in your web browser.
 
-Alternatively, play directly on your browser by visiting [gameurl.com](https://gameurl.com).
+
 
 ## How to Play
-- Use the arrow keys or mouse to move your fishbowl.
-- Avoid obstacles and predators.
-- Rescue fish by guiding them to safety.
-- Collect power-ups to gain advantages.
+-Use the tap to save the fish from dying
 
 ## Contributing
 We welcome contributions to improve "Fishbowl - Save the Fish"! To contribute:
